@@ -20,9 +20,14 @@ p{
 }
 
 section{
-background-color: rgb(4, 18, 125);
+background-color: rgb(46, 20, 96);
 padding-bottom: 80px;
 display: flex;
 justify-content: center;
 
 }
+
+.chamada-texto{
+    margin-right: 10%;
+}
+
